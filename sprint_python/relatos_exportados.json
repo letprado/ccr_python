@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "linha": 8,
+        "estacao": "jandira",
+        "resposta": "estao sim, sem erros"
+    },
+    {
+        "id": 3,
+        "linha": 8,
+        "estacao": "lapa",
+        "resposta": "sim, todos ok"
+    },
+    {
+        "id": 5,
+        "linha": 8,
+        "estacao": "osasco",
+        "resposta": "sim"
+    },
+    {
+        "id": 6,
+        "linha": 8,
+        "estacao": "osasco",
+        "resposta": "sim"
+    }
+]
